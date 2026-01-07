@@ -1,8 +1,7 @@
 # ✈️ Air Cargo Management & Analysis (PostgreSQL)
 
 ## 📌 Project Overview
-This project is a **PostgreSQL-based Air Cargo Management & Analysis system** designed as a **case-study project** 
-for **Fresher / Intermediate Data Analyst roles**.
+This project is a **PostgreSQL-based Air Cargo Management & Analysis system** designed as a **case-study project**.
 
 It demonstrates:
 - Database design (ER-based)
@@ -52,7 +51,3 @@ AirCargo-PostgreSQL-Project/
 ```
 
 ---
-## 🚀 Outcome
-- End-to-end airline analytics project
-- Interview-ready PostgreSQL SQL project
-- Resume-safe & ATS-friendly
